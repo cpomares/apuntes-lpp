@@ -14,7 +14,7 @@ Notas de clase de la semana 2 de LPP.
 	- 2.2. Formas especiales en Scheme: `define`, `if`, `cond`
 	- 2.3. Forma especial `quote` y símbolos
 	- 2.4. Listas
-    - **2.5. Recursión**
+        - **2.5. Recursión**
 - **3. Tipos de datos compuestos en Scheme**
 	- **3.1 El tipo de dato pareja**
 	- **3.2 Las parejas son objetos de primera clase**
@@ -379,7 +379,7 @@ Lo probamos ...
 
 ### Ejemplo de función que recibe distintos tipos de datos
 
-- Scheme es débilmente tipeado
+- Scheme es débilmente tipado
 - Podemos pasar cualquier tipo de dato en los parámetros de las funciones, por ejemplo a la siguiente función `suma`
 
 ```racket
